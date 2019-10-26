@@ -7,9 +7,9 @@ def main():
 def compareStrings(s1, s2):
     #Uncomment the below lines
     
-    #if s1==s2:
-    #   print("strings are equal")
-    #else:
-    #   print("strings are not equal")
+    if s1==s2:
+       print("strings are equal")
+    else:
+       print("strings are not equal")
     
 main()
